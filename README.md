@@ -8,10 +8,12 @@
 ![react](https://img.shields.io/badge/react-19.1-d95926?style=flat-square&labelColor=0d0c0b)
 ![eslint](https://img.shields.io/badge/eslint-9%20flat%20config-9085e9?style=flat-square&labelColor=0d0c0b)
 ![license](https://img.shields.io/badge/license-MIT-1f1d1b?style=flat-square&labelColor=0d0c0b)
+![status](https://img.shields.io/badge/status-work%20in%20progress-9085e9?style=flat-square&labelColor=0d0c0b)
 
 
 </div>
 
+This build is a work in progress: it renders one "Hello World!" page and has no product features yet.
 This is where the product manager project started. I generated the official Vite React template, cut it down to a
 single component and made the page fill the viewport, and stopped there. There is no routing, no product data and no
 styling library yet.
