@@ -9,7 +9,6 @@
 ![eslint](https://img.shields.io/badge/eslint-9%20flat%20config-9085e9?style=flat-square&labelColor=0d0c0b)
 ![license](https://img.shields.io/badge/license-MIT-1f1d1b?style=flat-square&labelColor=0d0c0b)
 
-<img src="docs/assets/hello-world.png" alt="The app at 1440x900: a white page with a bold Hello World! heading centered horizontally and vertically" width="100%">
 
 </div>
 
